@@ -1,0 +1,23 @@
+# База данных (локальные данные)
+todo.db
+*.db
+
+# Токены и секреты
+.env
+.env.local
+*.env
+token.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
